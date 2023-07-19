@@ -7,7 +7,7 @@
 To get started, clone this repository to your local machine and navigate to the project directory. Next, install the required dependencies.
 
 ```bash
-git clone https://github.com/clement-stackup/gas_challenge.git
+git clone https://github.com/alade-dev/gas_challenge.git
 cd gas_challenge && npm install
 ```
 
